@@ -1,2 +1,1 @@
-# sequelize-template
-basic Sequelize template with connection
+# just-tech-news
